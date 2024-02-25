@@ -1,0 +1,14 @@
+[
+  {
+    "host": "collector.github.com",
+    "port": 443
+  },
+  {
+    "host": "api.github.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 443
+  }
+]
